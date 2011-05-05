@@ -1,4 +1,4 @@
-#summary How to help
+#summary How make this the best HTML5 Emulator
 
 If you are interested in contributing, feel free to get in touch with [http://www.twitter.com/bradrydzewski @bradrydzewski].
 
