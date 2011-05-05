@@ -19,3 +19,5 @@ First, go to the [http://goo.gl/OQvYv 8-bit-hits page] in the Chrome Web Store a
 You will then see the 8-bit-hits icon on your home screen:
 
 <img src="http://gwt-nes-port.googlecode.com/svn/wiki/ChromeAppsScreenshot.png" width="600px" />
+
+For a tour of the application, see our [ScreenOverview] wiki article.
