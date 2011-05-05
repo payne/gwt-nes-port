@@ -17,7 +17,7 @@ You can import games directly from your filesystem, thanks to the HTML5 File API
 
 IMPORTANT: All files must have a `.NES` extension. We do not have the functionality to import zipped games.
 
-Once you upload a game, we attempt to match the file name with a pre-defined list of games. Nothing fancy here. No web service call. Just a hard coded list of regular expressions that try to identify the game's title and image.
+Once you upload a game, we attempt to match the file name with a pre-defined list of games. Nothing fancy here. No web service call. Just a hard coded list of regular expressions that try to identify the game's title, genre and image.
 
 You can see your games stored in Chrome's local database:
 
