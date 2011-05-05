@@ -43,6 +43,6 @@ Our goal was to design a UI that matched the Google Chrome look and feel. For ex
  * The color palette matches the Chrome New Tab screen
  * The page links (upload game, settings) match the bookmarks on the New Tab screen
  * The game icons match the App icons on the New Tab screen
- * The headings on the Settings / Upload page match the headings on the chrome://settings page
+ * The headings on the Settings and Import Game pages match the headings on the chrome://settings page
 
 If ChromeOS ever releases more comprehensive look and feel guidelines we'll attempt to conform. We want this to feel like it was built for ChromeOS ... because it was!
