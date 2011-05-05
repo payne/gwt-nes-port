@@ -1,4 +1,4 @@
-#summary How make this the best HTML5 Emulator
+#summary Help make this HTML5 emulator as great as it's desktop counterparts
 
 Please get in touch with [http://www.twitter.com/bradrydzewski @bradrydzewski] if you would like to contribute.
 
