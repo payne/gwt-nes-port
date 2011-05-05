@@ -10,13 +10,11 @@ Note: you will need to include a copy of the [http://code.google.com/p/gwt-mobil
 
 = Chrome Web Store =
 
-In addition to the source code, you can download a free packaged version of the application, called [http://goo.gl/OQvYv 8-bit-hits], from the Chrome Web Store.
-
-First, go to the [http://goo.gl/OQvYv 8-bit-hits page] in the Chrome Web Store and click the install button:
+In addition to the source code, you can download a free packaged version of the application, called 8-bit-hits, from the Chrome Web Store. Simply go to the [http://goo.gl/OQvYv 8-bit-hits page] in the Chrome Web Store and click the install button:
 
 <img src="http://gwt-nes-port.googlecode.com/svn/wiki/ChromeWebstoreScreenshot.png" width="600px" />
 
-You will then see the 8-bit-hits icon on your home screen:
+...And voila, you will then see the 8-bit-hits icon on your home screen:
 
 <img src="http://gwt-nes-port.googlecode.com/svn/wiki/ChromeAppsScreenshot.png" width="600px" />
 
