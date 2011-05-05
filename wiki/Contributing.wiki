@@ -1,6 +1,6 @@
 #summary How make this the best HTML5 Emulator
 
-If you are interested in contributing, feel free to get in touch with [http://www.twitter.com/bradrydzewski @bradrydzewski].
+Please get in touch with [http://www.twitter.com/bradrydzewski @bradrydzewski] if you would like to contribute.
 
 I run this project in my spare time, and it is one of many open source projects I actively manage. There is a lot of work left to do, and I would really appreciate the help!
 
