@@ -9,5 +9,5 @@ I run this project in my spare time, and it is one of many open source projects 
 The following areas need to be improved, and help would be very greatly appreciated: 
  * *Sound* using the HTML5 audio API
  * Improve performance, especially for the CR-48 users
- * Improve game compatibility and rendering(specifically Star Tropics)
+ * Improve game compatibility and rendering (specifically Star Tropics)
  * Ability to Sync games from Chrome to Google Docs and back
