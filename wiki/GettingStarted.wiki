@@ -1,13 +1,16 @@
-#summary One-sentence summary of this page.
+#summary Gettings started with NES and GWT
 
-= Introduction =
+= Getting the Code =
 
-Add your content here.
+You can checkout the code from our [http://code.google.com/p/gwt-nes-port/source/checkout Subversion Repository]. Currently we have two different eclipse projects available:
+ * Emulator only
+ * 8-bit-hits Application, includes the emulator, screens, game storage, etc
 
+Note: you will need to include a copy of the [http://code.google.com/p/gwt-mobile-webkit/ gwt-mobile-webkit] library, which is used to provide local storage for our games.
 
-= Installation =
+= Chrome Web Store =
 
-You can download and run the [Source source code] for the emulator, or you can download a free packaged version of the application, called [http://goo.gl/OQvYv 8-bit-hits], from the Chrome Web Store.
+In addition to the source code, you can download a free packaged version of the application, called [http://goo.gl/OQvYv 8-bit-hits], from the Chrome Web Store.
 
 First, go to the [http://goo.gl/OQvYv application page] in the Chrome Web Store and click the install button:
 
