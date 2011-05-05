@@ -12,7 +12,7 @@ Note: you will need to include a copy of the [http://code.google.com/p/gwt-mobil
 
 In addition to the source code, you can download a free packaged version of the application, called [http://goo.gl/OQvYv 8-bit-hits], from the Chrome Web Store.
 
-First, go to the [http://goo.gl/OQvYv application page] in the Chrome Web Store and click the install button:
+First, go to the [http://goo.gl/OQvYv 8-bit-hits page] in the Chrome Web Store and click the install button:
 
 <img src="http://gwt-nes-port.googlecode.com/svn/wiki/ChromeWebstoreScreenshot.png" width="600px" />
 
