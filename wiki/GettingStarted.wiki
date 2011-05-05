@@ -3,8 +3,8 @@
 = Getting the Code =
 
 You can checkout the code from our [http://code.google.com/p/gwt-nes-port/source/checkout Subversion Repository]. Currently we have two different eclipse projects available:
- * Emulator only
- * 8-bit-hits Application, includes the emulator, screens, game storage, etc
+ * Emulator only (see /branches/gwt-nes-port)
+ * 8-bit-hits Application, includes the emulator, screens, game storage, etc (see /trunk/gwt-nes-port)
 
 Note: you will need to include a copy of the [http://code.google.com/p/gwt-mobile-webkit/ gwt-mobile-webkit] library, which is used to provide local storage for our games.
 
