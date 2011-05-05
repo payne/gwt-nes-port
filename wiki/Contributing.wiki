@@ -1,4 +1,4 @@
-#summary Help make this HTML5 emulator as great as it's desktop counterparts
+#summary Help make this HTML5 emulator as great as it's C / C++ / Java / DirectX counterparts
 
 Please get in touch with [http://www.twitter.com/bradrydzewski @bradrydzewski] if you would like to contribute.
 
