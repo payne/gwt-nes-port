@@ -5,9 +5,14 @@
 Add your content here.
 
 
-= Details =
+= Installation =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+You can download and run the [Source source code] for the emulator, or you can download a free packaged version of the application, called [http://goo.gl/OQvYv 8-bit-hits], from the Chrome Web Store.
+
+First, go to the [http://goo.gl/OQvYv application page] in the Chrome Web Store and click the install button:
+
+<img src="http://gwt-nes-port.googlecode.com/svn/wiki/ChromeWebstoreScreenshot.png" width="600px" />
+
+You will then see the 8-bit-hits icon on your home screen:
+
+<img src="http://gwt-nes-port.googlecode.com/svn/wiki/ChromeAppsScreenshot.png" width="600px" />
