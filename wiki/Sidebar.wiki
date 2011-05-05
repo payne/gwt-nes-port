@@ -11,4 +11,4 @@
 <div>Sync with Google Docs</div>
 
 <div>*Resources* <font color='green' size='small'>_coming soon_</font></div>
-<div>JavaDoc</div>
+<div>Javadoc</div>
