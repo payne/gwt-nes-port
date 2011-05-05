@@ -2,14 +2,13 @@
 
 = Introduction =
 
-This is a port of an existing open-source Java emulator, hacked to compile with GWT and run within the browser using HTML5 technology. I was inspired by the [http://twitter.com/#!/GoogleIO @GoogleIO] presentation of the [http://code.google.com/p/quake2-gwt-port/ quake2-gwt-port] project, a pure HTML5 port of the popular Quake2 video game.
+This is a port of an existing open-source Java emulator, hacked to compile with GWT and run within the browser using HTML5 technology. Our inspiration was the [http://twitter.com/#!/GoogleIO @GoogleIO] presentation of the [http://code.google.com/p/quake2-gwt-port/ quake2-gwt-port] project, a pure HTML5 port of the popular Quake2 video game.
 
-I really wanted to take advantage of the power of Chrome and HTML5, so you will find some pretty cool features, including:
+We really wanted to take advantage of the power of Chrome and HTML5, so you will find some pretty cool features, including:
  * Use of HTML5 File API to upload games 
  * Use of Local Storage / WebDB to store games
  * Ability to play games offline. You never need an Internet connection
  * Use of the Canvas to render games, no flash plugin!
-
 
 = Compatibility =
 
@@ -30,4 +29,4 @@ These represent the vast majority of popular NES games. We do have the source co
 
 The emulator performs very well in the later version of Chrome, on modern laptops, and is able to achieve frame rates that *exceed 120 FPS* for games like Super Mario 3.
 
-Unfortunately, on Netbooks (including the CR-48), and in Firefox 4, we are only able to achieve frame rates of approx 20-30 FPS, which pretty much renders the emulator worthless, unless you have extremely slow reflexes.
+Unfortunately, on Netbooks (including the CR-48), and in Firefox 4, we are only able to achieve frame rates of approx 20-30 FPS, which pretty much renders the emulator worthless. Luckily for us, Moore's law says this probably won't be an issue in a year or two.
