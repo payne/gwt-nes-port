@@ -10,6 +10,8 @@ We really wanted to take advantage of the power of Chrome and HTML5, so you will
  * Ability to play games offline. You never need an Internet connection
  * Use of the Canvas to render games, no flash plugin!
 
+There is no profit in this. We don't sell the game. We don't display ads. It's just a fun project to showcase the power of HTML5, the speed of Google Chrome, and to help the world to transition to ChromeOS without missing some of their favorite desktop apps (in this case, NES emulators).
+
 = Compatibility =
 
 This emulator is compatible with the following mapper's:
