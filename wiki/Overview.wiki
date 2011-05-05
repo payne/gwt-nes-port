@@ -16,10 +16,10 @@ I really wanted to take advantage of the power of Chrome and HTML5, so you will 
 This emulator is compatible with the following mapper's:
 
  * Mapper 0 - Super Mario Bros, Excite Bike, Kung Fu
- * Mapper 1 - Legend of Zelda, Metroid, Rad Racer, MegaMan 2
- * Mapper 2 - Castlevania, MegaMan, Contra, Duck Tales
+ * Mapper 1 - Legend of Zelda, Metroid, Rad Racer, Mega Man 2
+ * Mapper 2 - Castlevania, Mega Man, Contra, Duck Tales
  * Mapper 3 - Spy Hunter, Paperboy, Goonies
- * Mapper 4 - Super Mario Bros 2 and 3, MegaMan 3, 4, 5, and 6
+ * Mapper 4 - Super Mario Bros 2 and 3, Mega Man 3, 4, 5, and 6
  * Mapper 5 - Castlevania 3
  * Mapper 7 - Battletoads, Cobra Triangle
  * Mapper 9 - Mike Tyson's Punchout
