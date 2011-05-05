@@ -1,13 +1,13 @@
-#summary One-sentence summary of this page.
+#summary How to help
 
-= Introduction =
+If you are interested in contributing, feel free to get in touch with [http://www.twitter.com/bradrydzewski @bradrydzewski].
 
-Add your content here.
+I run this project in my spare time, and it is one of many open source projects I actively manage. There is a lot of work left to do, and I would really appreciate the help!
 
+= Wish List =
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+The following areas need to be improved, and help would be very greatly appreciated: 
+ * *Sound* using the HTML5 audio API
+ * Improve performance, especially for the CR-48 users
+ * Improve game compatibility and rendering(specifically Star Tropics)
+ * Ability to Sync games from Chrome to Google Docs and back
