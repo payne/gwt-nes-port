@@ -13,4 +13,4 @@ The following areas need to be improved, and help would be very greatly apprecia
  * Ability to Sync games from Chrome to Google Docs and back
  * Ability to save game snapshots and restore
  * Add a full-screen mode, pause button, reset button
- * i18n
+ * i18n / translate to languages other than English
