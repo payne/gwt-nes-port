@@ -40,8 +40,8 @@ The settings screen doesn't do too much at the moment. It displays the current c
 = Design Goals =
 
 Our goal was to design a UI that matched the Google Chrome look and feel. For example:
- * The color palette matches the Chrome home screen
- * The page links (upload game, settings) match the bookmarks on the home screen
- * The game icons match the App icons on the home screen
+ * The color palette matches the Chrome New Tab screen
+ * The page links (upload game, settings) match the bookmarks on the New Tab screen
+ * The game icons match the App icons on the New Tab screen
 
 If ChromeOS ever releases more comprehensive look and feel guidelines we'll attempt to conform. We want this to feel like it was built for ChromeOS ... because it was!
