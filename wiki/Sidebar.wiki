@@ -4,7 +4,7 @@
 <div>[ScreenOverview Screen Overview]</div>
 <div>[Contributing Contributing]</div>
 
-<div>*Technical Overviews* <font color='green' size='small'>_coming soon_</font></div>
+<div>*Technical Overviews*</div>
 <div>[EmbeddingEmulator Embedding the Emulator]</div>
 <div>Emulator Class Overview</div>
 <div>[FileAPI HTML5 File API]</div>
