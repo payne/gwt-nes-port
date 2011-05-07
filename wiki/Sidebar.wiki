@@ -7,7 +7,7 @@
 <div>*Technical Detail* <font color='green' size='small'>_coming soon_</font></div>
 <div>[EmbeddingEmulator Embedding the Emulator]</div>
 <div>Emulator Class Overview</div>
-<div>HTML5 File API</div>
+<div>[FileAPI HTML5 File API]</div>
 <div>Sync with Google Docs</div>
 
 <div>*Resources* <font color='green' size='small'>_coming soon_</font></div>
