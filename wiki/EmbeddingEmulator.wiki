@@ -1,6 +1,6 @@
 #summary How to embed the Emulator in your Application
 
-= Introduction =
+= Instructions =
 
 The gwt-nes-port includes both the 8-bit-hits chrome application and a stand-alone emulator that you can directly embed in your own project.
 
