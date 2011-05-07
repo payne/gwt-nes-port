@@ -5,7 +5,7 @@
 <div>[Contributing Contributing]</div>
 
 <div>*Technical Detail* <font color='green' size='small'>_coming soon_</font></div>
-<div>Embedding the Emulator</div>
+<div>[EmbeddingEmulator Embedding the Emulator]</div>
 <div>Emulator Class Overview</div>
 <div>HTML5 File API</div>
 <div>HTML5 Storage</div>
