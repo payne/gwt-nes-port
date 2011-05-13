@@ -1,0 +1,47 @@
+#summary Highlights performance issues with Google chrome.
+
+
+
+<p>Notice in Chrome 11 the emulator is running Super Mario 3 at *96 fps*</p>
+
+<img src="http://gwt-nes-port.googlecode.com/svn/wiki/ScreenshotChrome11.png" />
+
+
+
+<p>And in Chrome 13 the emulator is running Super Mario 3 at *48 fps*</p>
+
+<img src="http://gwt-nes-port.googlecode.com/svn/wiki/ScreenshotChrome13.png" />
+
+<p>When I profiled, the following IF / ELSE block has two operations where it writes to arrays. When commented out, I gain back 30 fps:
+
+{{{
+function $backgroundBlitzer(this$static) { 
+  ..... 
+  for (i = 0; i < 33; ++i) { 
+    MMC5_pal = mapper.PPU_Latch_RenderScreen(1, nameAddr & 1023); 
+    MMC5_pal != 0 && (attribBits = MMC5_pal & 12); 
+    patternValueLo = $ppuRead_0(this$static, patternAddr); 
+    patternValueHi = $ppuRead_0(this$static, patternAddr + 8); 
+    this$static.latchMapper && mapper.latch(patternAddr); 
+    patternMask = 128; 
+    for (int patternMask=0; patternMask > 0; patternMask >>= 1) { 
+      col = attribBits; 
+      (patternValueLo & patternMask) != 0 && (col |= 1); 
+      (patternValueHi & patternMask) != 0 && (col |= 2); 
+      if ((col & 3) != 0) { 
+        // If I comment out below 2 lines, perf increases 30 fps
+        this$static.solidBGPixel[solid] = 1; 
+        this$static.linePalettes[p] = col; 
+      } 
+       else { 
+        // If I comment out below 2 lines, perf increases 30 fps
+        this$static.solidBGPixel[solid] = 0; 
+        this$static.linePalettes[p] = 0; 
+      } 
+      ++solid; 
+      ++p; 
+   } 
+   ..... 
+} 
+
+}}}
