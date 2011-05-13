@@ -1,6 +1,6 @@
 #summary Highlights performance issues with Google chrome.
 
-
+<p>I've uploaded a special version of my emulator that doesn't throttle the framerate, so that we can accurately gauge speed and performance. Please see http://goo.gl/648IU</p>
 
 <p>Notice in Chrome 11 the emulator is running Super Mario 3 at *96 fps*</p>
 
