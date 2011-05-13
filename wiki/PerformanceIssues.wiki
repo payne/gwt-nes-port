@@ -4,13 +4,13 @@
 
 <p>Notice in Chrome 11 the emulator is running Super Mario 3 at *96 fps*</p>
 
-<img src="http://gwt-nes-port.googlecode.com/svn/wiki/ScreenshotChrome11.png" />
+<img src="http://gwt-nes-port.googlecode.com/svn/wiki/ScreenshotChrome11.png" border="2" />
 
 
 
 <p>And in Chrome 13 the emulator is running Super Mario 3 at *48 fps*</p>
 
-<img src="http://gwt-nes-port.googlecode.com/svn/wiki/ScreenshotChrome13.png" />
+<img src="http://gwt-nes-port.googlecode.com/svn/wiki/ScreenshotChrome13.png" border="2" />
 
 <p>When I profiled, the following IF / ELSE block has two operations where it writes to arrays. When commented out, I gain back 30 fps:
 
