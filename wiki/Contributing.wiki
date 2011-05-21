@@ -7,7 +7,7 @@ I run this project in my spare time, and it is one of many open source projects 
 = Wish List =
 
 The following areas need to be improved, and help would be very greatly appreciated: 
- * *Sound* using the HTML5 [http://chromium.googlecode.com/svn/trunk/samples/audio/specification/specification.html Web Audio API]. See my initial prototype [goo.gl/JpVEh here].
+ * *Sound* using the HTML5 [http://chromium.googlecode.com/svn/trunk/samples/audio/specification/specification.html Web Audio API]. See my initial prototype [http://goo.gl/JpVEh here].
  * Improve performance, especially for the CR-48 users
  * Improve game compatibility and rendering (specifically Star Tropics)
  * Ability to Sync games from Chrome to Google Docs and back
