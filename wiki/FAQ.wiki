@@ -24,4 +24,4 @@ Google Chrome v13 does support sound generation, and we have begun working on th
 
 == Why doesn't game XYZ work? ==
 
-If you come across a Game that doesn't work please file a [http://code.google.com/p/gwt-nes-port/issues/list bug report]. Please include the name of the game and a detailed description of the incompatibility issues you are experiencing.
+If you come across a Game that doesn't work please file a [http://code.google.com/p/gwt-nes-port/issues/entry?template=Game%20Incompatible bug report]. Please include the name of the game and a detailed description of the incompatibility issues you are experiencing.
