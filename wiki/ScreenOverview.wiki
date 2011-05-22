@@ -1,4 +1,5 @@
 #summary Overview of the Application's Screens.
+#labels Featured
 
 = Game Library Screen =
 
