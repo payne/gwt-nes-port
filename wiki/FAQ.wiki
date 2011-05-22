@@ -1,10 +1,9 @@
 #summary Frequently asked questions
 
 This page answers some Frequently Asked Questions about the [https://chrome.google.com/webstore/detail/bfjokmbfklgdmfahhfcnbkilomimlnln 8-Bit-Hits] game on the Chrome Web Store. If you don't see your question answered here, feel free to [https://chrome.google.com/webstore/detail/bfjokmbfklgdmfahhfcnbkilomimlnln post a comment]. 
-
+<br/>
 <wiki:toc max_depth="2" />
-
-
+<br/>
 == Where are the games? ==
 
 We do not distribute games with the 8-Bit-Hits emulator. You can upload ROM files from your computer by clicking on the "Import Game" link.
@@ -24,4 +23,4 @@ Google Chrome v13 does support sound generation, and we have begun working on th
 
 == Why doesn't game XYZ work? ==
 
-If you come across a Game that doesn't work please file a [http://code.google.com/p/gwt-nes-port/issues/entry?template=Game%20Incompatible bug report]. Please include the name of the game and a detailed description of the incompatibility issues you are experiencing.
+If you come across a Game that doesn't work please file a [http://code.google.com/p/gwt-nes-port/issues/entry?template=Game%20Incompatible bug report]. Please include the name of the game and a detailed description of the compatibility issues you are experiencing.
