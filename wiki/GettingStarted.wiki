@@ -1,4 +1,5 @@
 #summary Gettings started with NES and GWT
+#labels Featured
 
 = Getting the Code =
 
