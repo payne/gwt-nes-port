@@ -3,6 +3,7 @@
 <div>[GettingStarted Getting Started]</div>
 <div>[ScreenOverview Screen Overview]</div>
 <div>[Contributing Contributing]</div>
+<div>[FAQ Faq]</div>
 
 <div>*Technical Overviews*</div>
 <div>[EmbeddingEmulator Embedding the Emulator]</div>
