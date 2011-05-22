@@ -11,7 +11,7 @@ Games are tagged by Genre, and there are links on the left side of the screen th
 
 = Import Game Screen =
 
-You can import games directly from your filesystem, thanks to the HTML5 File API. You can either use the File dialog box, or drag your files directly on to the page.
+You can import games directly from your filesystem, thanks to the HTML5 File API. You can either use the File dialog box, or drag your files directly on to the page. Note: dragging multiple files at once is now supported.
 
 <img src="http://gwt-nes-port.googlecode.com/svn/wiki/GameImportScreen.png" width="700px" />
 
