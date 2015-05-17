@@ -1,0 +1,1 @@
+We have an initial [prototype](http://goo.gl/JpVEh) of our emulator working with sound thanks to the new HTML5 Web Audio API.
